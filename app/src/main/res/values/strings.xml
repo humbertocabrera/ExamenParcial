@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="la_capital_del_cine">La capital del Cine</string>
+    <string name="cinepolis">Cinépolis</string>
+    <string name="pelicula">Harry Potter VIII</string>
+    <string name="harry_potter_viii_ing_2015">Harry Potter VIII (ING, 2015)</string>
+    <string name="por_favor_seleccione_un_horario">Por favor seleccione un horario:</string>
+    <string name="comprar_boletos">COMPRAR BOLETOS</string>
+</resources>
